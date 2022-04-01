@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+![](https://i.imgur.com/d914erh.gif)
+![](https://i.imgur.com/G83TNHQ.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
@@ -79,7 +79,7 @@ If I had more time to work on the project, I would work on making the interface 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Nada Elfazary]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
