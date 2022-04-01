@@ -1,0 +1,108 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  color: yellow;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 2em;
+  font-family: helvetica, arial, sans-serif;
+  line-height: 1.5;
+  background-color: darkslateblue;
+  color: white; 
+}
+
+button {
+  padding: 12px;
+  border-radius: 8px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+#button1 {
+    background: lightgreen;
+}
+
+#button1:active, #button1.lit {
+        background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/kiwi-1296x728-header.webp?v=1647912387114');
+            background-size: cover;
+
+}
+
+#button2 {
+    background: lightblue;
+}
+
+#button2:active, #button2.lit  {
+   background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/blueberries.jpg?v=1647912387697');
+            background-size: cover;
+}
+
+#button3 {
+    background: pink;
+}
+
+#button3:active, #button3.lit  {
+    background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/red-cherries-681x1024.jpg?v=1647912388134');
+            background-size: cover;
+}
+
+#button4 {
+    background: lightyellow;
+}
+
+#button4:active, #button4.lit  {
+    background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/yellow-780x400.jpg?v=1647912388611');
+            background-size: cover;
+}
+
+#button5 {
+    background: orchid;
+}
+
+#button5:active, #button5.lit {
+    background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/eggplant.jpg?v=1648782258544');
+            background-size:cover;
+}
+
+#button6 {
+    background: orange;
+}
+
+#button6:active, #button6.lit {
+    background-image: url(
+'https://cdn.glitch.global/a662a440-0a92-43cf-a281-cd62d6608628/Orange-fruits.jpg?v=1648782393434');
+            background-size:cover;
+}
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
