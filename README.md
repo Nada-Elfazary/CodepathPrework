@@ -6,7 +6,7 @@ Submitted by: **Nada Elfazary**
 
 Time spent: **5** hours spent in total
 
-Link to project: (https://github.com/Nada-Elfazary/CodepathPrework.git)
+Link to project: (https://glitch.com/edit/#!/clear-typical-brow)
 
 ## Required Functionality
 
@@ -48,21 +48,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-I used the above link to figure out how the correct syntax for generarting random numbers within a specific range, which I used for the random pattern generation.
+I used the above link to figure out the correct syntax for generarting random numbers within a specific range, which I used for the random pattern generation.
 
 https://www.geeksforgeeks.org/how-to-change-an-input-button-image-using-css/
-I used the above link to figure out how to make an image the background of a button
+I used the above link to figure out how to make an image the background of a button.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
 A challenge I encountered while working on this light and sound game was in implementing one of the optional features. Specifically, I struggled with adding images to the buttons when they’re clicked. I was able to add images inside the gameButtonArea div, and I was able to display and hide it depending on whether the button is clicked or not, respectively, by adapting the code for the start/stop buttons. However, I wasn’t able to make the image appear in the same place as the button. I tried changing the position of the image tag in relation to the other tags (essentially buttons) in the div area, but it still was not working. I decided to move onto other optional features and then come back to this if I had time at the end. 
 
-After thinking about this for a while, I did a bit of searching online, which changed my way of thinking about how to implement this feature. Instead of removing the button and making the image appear, which seemed impractical and hard to accurately apply, the idea of making the background of a button an image rather than a color came to my mind. I then googled how to set the background of a button to an image and used that in my css file for when the buttons were active/lit instead of the color change. By giving this some time and having the chance to look at the problem again with fresh eyes, I was able to think of it differently and actually solve it.
+After thinking about this for a while, I did a bit of searching online, which changed my way of thinking about how to implement this feature. Instead of removing the button and making the image appear in its place, which seemed impractical and hard to accurately apply, the idea of putting the image as the background of a button came to my mind. I then googled how to set the background of a button to an image and used that in my css file for when the buttons were active/lit instead of the color change. By giving this some time and having the chance to look at the problem again with fresh eyes, I was able to think of it differently and actually solve it.
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-I'm interested in knowing about advanced javascript libraries that facilitate the monotonous tasks of Web development to allow developers to work on more high level features. I am also curious about how web animation is implemented. Finally, I would like to know how this kind of work is divided among people and what different kinds of jobs web developers can take on.
+I'm interested in knowing about advanced javascript libraries that facilitate the monotonous tasks of Web development to allow developers to work on more high level features. I am also curious about how web animation is implemented. In addition, do all webpages and/or web applications have to use html, css, and/or JavaScript, or are there other ways to create web products? Furthermore, will the codepath SITE program touch upon the challenges of web security and ways to make websites more secure? Finally, I would like to know how this kind of work (web development ) is divided among people and what different kinds of jobs web developers take on.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
