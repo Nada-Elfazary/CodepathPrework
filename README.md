@@ -74,7 +74,7 @@ If I had more time to work on the project, I would work on making the interface 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://youtu.be/gx_MtOWX1_0)
+[My 5-minute Interview Recording](https://www.loom.com/share/a10cf96e93704f0cb49c90bbabb619a1)
 
 
 ## License
